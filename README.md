@@ -71,12 +71,8 @@ Developed a computer-aided screening pipeline detecting micro-calcifications and
 - 💼 [LinkedIn](https://www.linkedin.com/in/shraddha-panwar-bbbab71aa)
 - 📩 [shraddha.panwar10@gmail.com](mailto:shraddha.panwar10@gmail.com)
 - 📍 Ghaziabad, Uttar Pradesh, India
----
 
-## 📊 GitHub Stats
-
-![Shraddha's GitHub stats](https://github-readme-stats.vercel.app/api?username=shraddha4277&show_icons=true&theme=tokyonight)
 
 ---
 
-⭐ *Passionate about building rigorous, clinically meaningful AI algorithms that bridge the gap between experimental engineering and real-world bedside adoption.*[cite: 1]
+⭐ *Passionate about building rigorous, clinically meaningful AI algorithms that bridge the gap between experimental engineering and real-world bedside adoption.*
