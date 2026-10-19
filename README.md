@@ -1,13 +1,13 @@
 # 👋 Hi, I'm Shraddha Panwar
 
 🎓 **Biomedical Engineer | AI/ML Researcher | Clinical Data Scientist**  
-🔬 Dedicated to bridging computational intelligence and medical diagnostics through translational deep learning, biosignal processing, and high-dimensional diagnostic imaging[cite: 1].
+🔬 Dedicated to bridging computational intelligence and medical diagnostics through translational deep learning, biosignal processing, and high-dimensional diagnostic imaging.
 
 ---
 
 ## 💡 About Me
 
-I hold an **M.Tech in Biomedical Engineering** from Vellore Institute of Technology and currently work as a **Research Associate at AIIMS, New Delhi**. My work sits at the intersection of computer science, applied mathematics, and biostatistics, focusing on building robust, clinically validated decision-support systems.
+I hold an **M. Tech in Biomedical Engineering** from Vellore Institute of Technology and currently work as a **Research Associate at AIIMS, New Delhi**. My work sits at the intersection of computer science, applied mathematics, and biostatistics, focusing on building robust, clinically validated decision-support systems.
 
 From engineering multimodal biosignal pipelines (EEG, ECG, PPG) to deploying memory-optimized 3D DICOM reconstruction workflows and transformer-driven surgical skill evaluators, I design end-to-end AI/ML systems that turn complex clinical data into actionable diagnostics.
 
